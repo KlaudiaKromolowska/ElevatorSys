@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\klaud\Desktop\elevatorsystem\target\scala-2.13\elevator-system_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Elevator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\klaud\Desktop\elevatorsystem\target\scala-2.13\classes\Elevator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Elevator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\klaud\Desktop\elevatorsystem\target\scala-2.13\classes\Elevator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ElevatorConf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\klaud\Desktop\elevatorsystem\target\scala-2.13\classes\ElevatorConf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ElevatorConf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\klaud\Desktop\elevatorsystem\target\scala-2.13\classes\ElevatorConf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ElevatorSys.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\klaud\Desktop\elevatorsystem\target\scala-2.13\classes\ElevatorSys.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ElevatorSysConf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\klaud\Desktop\elevatorsystem\target\scala-2.13\classes\ElevatorSysConf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ElevatorSysConf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\klaud\Desktop\elevatorsystem\target\scala-2.13\classes\ElevatorSysConf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\klaud\Desktop\elevatorsystem\target\scala-2.13\classes\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\klaud\Desktop\elevatorsystem\target\scala-2.13\classes\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\klaud\Desktop\elevatorsystem\target\scala-2.13\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\klaud\Desktop\elevatorsystem\target\scala-2.13\classes\META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF\hello-world.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\klaud\Desktop\elevatorsystem\target\scala-2.13\classes\META-INF\hello-world.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
