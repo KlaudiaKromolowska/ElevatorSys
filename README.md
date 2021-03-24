@@ -1,6 +1,7 @@
 #**SYSTEM ZARZĄDZANIA WINDAMI**
 
 #Opis
+
 - Każda z 16 wind może poruszać się w innym kierunku (lub nie poruszać się wcale). 
 - Na jednym piętrze może wsiadać jedna lub więcej osób. 
 - Wyboru piętra na które chcemy dojechać dokonujemy po wejściu do windy.
@@ -10,12 +11,14 @@ znajdujemy się na 3 piętrze, jedziemy w górę, a musimy odwiedzić piętra 6,
 
 
 #Jak uruchomić aplikację
+
 Jest to zwykła aplikacja "sbt" - w wierszu polecenia wpisujemy kolejno 'sbt', a następie 'run Main' lub otwieramy projekt poprzez dwukrotne kliknięcie na plik 'build.sbt'
 
 
  
 
 #Projekt
+
 **ElevatorSys** 
 Zawiera 4 podstawowe metody: 
  - `pickup` - przyjmuje zgloszenie  - piętro na które ma udać się winda oraz kierunek w jakim będziemy się poruszać
